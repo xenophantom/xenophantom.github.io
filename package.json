@@ -1,0 +1,19 @@
+{
+  "name": "nodeplanner",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "@braks/revue-draggable": "^0.4.2",
+    "@hyjiacan/vue-slideout": "^2.5.9",
+    "vue": "^3.2.36",
+    "vue-draggable-resizable": "^2.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "vite": "^2.9.9"
+  }
+}

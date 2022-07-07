@@ -1,0 +1,5 @@
+x add button animation
+o format new card
+!!!!! o simulate card save > put card on canvas after adding
+o make cards draggable
+o CRUD operations
